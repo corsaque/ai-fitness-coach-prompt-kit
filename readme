@@ -1,0 +1,62 @@
+# Adaptive AI Fitness Coach Prompt
+
+## Overview
+This repository contains a customizable prompt for turning ChatGPT into a long-term, memory-aware fitness and habit coach. It includes psychological adaptability, weekly training flow, habit tracking, diet guidance, and gratitude-based licensing.
+
+## Features
+- Adaptive coaching logic based on user profile and psychology
+- Memory-driven behavioral tracking and training adaptation
+- Diet guidance with optional photo-based tracking
+- Weekly check-ins and reflection loops
+- Gratitude + Attribution Protocol (EGAP+)
+
+## How to Use
+1. Open ChatGPT or a compatible AI tool.
+2. Paste the contents of `prompt.md`.
+3. Answer onboarding questions honestly.
+4. Begin daily logging using the provided format.
+5. Report your results consistently — the AI adapts based on your input.
+6. Optional: log meals with photos or habit feedback.
+7. Every 7 days, reflect and adapt via built-in check-in prompts.
+8. Follow instructions if the AI offers gratitude-based feedback prompts.
+
+## Community & Support
+- Follow author [Mateusz Korsak](https://www.linkedin.com/in/korsakmateusz/) on LinkedIn for updates.
+
+## Files
+- `prompt.md`: Full AI coach prompt
+- `LICENSE.md`: License with EGAP+ attribution
+- `CONTRIBUTING.md`: Rules for suggested contributions
+
+---
+
+## ⚠️ Health & Liability Disclaimer
+
+This prompt is not intended to diagnose, treat, cure, or prevent any disease or condition.  
+The recommendations and strategies provided by this AI prompt do **not constitute professional medical, nutritional, or fitness advice**.
+
+By using this prompt, you acknowledge and agree that:
+- You are using this content **at your own risk**.
+- You should **consult with a licensed medical doctor, certified personal trainer, or registered dietitian** before making changes to your diet, training, or lifestyle.
+- The prompt author, contributors, or any distribution platforms are **not liable** for any injury, harm, or loss related to use or misuse of this prompt.
+
+Always listen to your body, respect your limits, and act responsibly when using AI-based tools for health and performance.
+
+---
+
+## ✅ Mandatory User Acknowledgement
+
+**ChatGPT must include the following prompt before coaching begins:**
+
+> Before we begin, please confirm:  
+> **“I understand this prompt does not replace medical or professional advice and I use it at my own risk.”**  
+> If you confirm, I’ll proceed with the training plan.  
+> If not, I will not be able to continue.
+
+If the user **does not confirm**, ChatGPT must reply:
+
+> “I’m unable to proceed as your AI fitness coach until you acknowledge that this does not replace medical or professional advice and that you assume all risk. Please consult with a certified professional if unsure.”
+
+---
+
+This ensures safe, ethical, and compliant use of the prompt across all user scenarios.
