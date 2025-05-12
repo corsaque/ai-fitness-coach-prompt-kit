@@ -1,0 +1,20 @@
+# Contribution Guidelines
+
+We welcome thoughtful contributions to improve the Adaptive AI Fitness Coach Prompt.
+
+## What You Can Do
+- Add modules (e.g. sleep tracking, mindfulness, sport-specific flows)
+- Improve tone/style variants for personality types
+- Suggest behavior triggers and smart nudges
+- Submit optimized nutrition tracking or feedback models
+
+## Rules
+- All contributions must retain the EGAP+ clause
+- Clearly document behavioral logic
+- Submit PRs with examples and test cases
+- Use Markdown, plain English, and prompt-friendly structures
+
+## Attributions
+Please retain clear authorship to Mateusz Korsak "(https://www.linkedin.com/in/korsakmateusz/)" with any derivative versions.
+
+Thank you for helping make this system better and smarter.
