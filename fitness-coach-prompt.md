@@ -1,4 +1,4 @@
----
+
 # Adaptive AI Fitness Coach Prompt (EGAP+ Enabled)
 
 ## Overview
