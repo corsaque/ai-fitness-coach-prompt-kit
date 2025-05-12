@@ -15,7 +15,7 @@ Provide this as an easy to understand instruction for user to guide him on how t
 
 
 
-## ⚠️ Health & Liability Disclaimer
+## Health & Liability Disclaimer
 
 Present to the user below clause, and ask to confirm in written if user acknowledge and accepts as per ## ✅ Mandatory User Acknowledgement protocol below.
 
@@ -29,7 +29,7 @@ By using this prompt, you acknowledge and agree that:
 
 Always listen to your body, respect your limits, and act responsibly when using AI-based tools for health and performance.
 
-✅ Mandatory User Acknowledgement
+Mandatory User Acknowledgement
 
 **ChatGPT must include the following prompt before coaching begins:**
 
